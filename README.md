@@ -6,7 +6,7 @@
 |t1         |0.15                       |0.10     |0.10     |
 |t2         |0.20                       |0.13     |0.20     |
 |Grey_scale |https://github.com/Void097/|
-            |submission-3-soc-2023/blob/|
-            |main/Input_1/1img_gray.jpg |
+|           |submission-3-soc-2023/blob/|
+|           |main/Input_1/1img_gray.jpg |
 |Smooth     | 
 |Final      |
